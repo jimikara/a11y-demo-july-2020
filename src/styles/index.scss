@@ -1,0 +1,8 @@
+@import "../../node_modules/normalize-scss/sass/normalize";
+@include normalize();
+
+@import 'variables';
+
+body {
+  background-color: $white;
+}
